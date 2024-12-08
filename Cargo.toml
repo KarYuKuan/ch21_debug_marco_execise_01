@@ -1,0 +1,6 @@
+[package]
+name = "ch21_debug_marco_execise_01"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
